@@ -1,0 +1,14 @@
+What is Cyber Security?
+
+Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, 
+networks, and data from malicious attacks. It's also known as information technology security or 
+electronic information security. The term applies in a variety of contexts, from business to mobile computing, 
+and can be divided into a few common categories.
+
+
+The scale of the cyber threat
+
+The global cyber threat continues to evolve at a rapid pace, with a rising number of 
+data breaches each year. A report by RiskBased Security revealed that a shocking 7.9 billion 
+records have been exposed by data breaches in the first nine months of 2019 alone. This figure 
+is more than double (112%) the number of records exposed in the same period in 2018.
